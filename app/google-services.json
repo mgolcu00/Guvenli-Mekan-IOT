@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "630137958281",
+    "firebase_url": "https://safe-place-gm-default-rtdb.firebaseio.com",
+    "project_id": "safe-place-gm",
+    "storage_bucket": "safe-place-gm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630137958281:android:a69335a0482a2243e8bb58",
+        "android_client_info": {
+          "package_name": "com.mertgolcu.safeplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630137958281-6s9n7ot8diea8r3lhurg36so45lharim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWQUep8Fz0R8PXEQNRHfAkV5avCo4wrdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630137958281-6s9n7ot8diea8r3lhurg36so45lharim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
